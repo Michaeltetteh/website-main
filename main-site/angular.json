@@ -24,9 +24,32 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/assets/css/theme.css",
+              "src/assets/lib/lightbox2/css/lightbox.css",
+              "src/assets/lib/owl.carousel/owl.carousel.css",
+              "src/assets/lib/prismjs/prism.css",
+              "src/assets/lib/remodal/remodal-default-theme.css",
+              "src/assets/lib/remodal/remodal.css",
+              "src/assets/lib/semantic-ui-accordion/accordion.min.css",
+              "src/assets/lib/semantic-ui-transition/transition.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/bootstrap.js",
+              "src/assets/js/jquery.min.js",
+              "src/assets/js/plugins.js",
+              "src/assets/js/popper.min.js",
+              "src/assets/js/stickyfill.min.js",
+              "src/assets/js/theme.js",
+              "src/assets/lib/isotope-layout/isotope.pkgd.min.js",
+              "src/assets/lib/isotope-packery/packery-mode.pkgd.min.js",
+              "src/assets/lib/jtap/jquery.tap.js",
+              "src/assets/lib/lightbox2/js/lightbox.js",
+              "src/assets/lib/owl.carousel/owl.carousel.js",
+              "src/assets/lib/prismjs/prism.js",
+              "src/assets/lib/remodal/remodal.js",
+              "src/assets/lib/semantic-ui-accordion/accordion.min.js",
+              "src/assets/lib/semantic-ui-transition/transition.min.js"
+            ]
           },
           "configurations": {
             "production": {
