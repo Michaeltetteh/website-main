@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/style.css",
               "src/assets/css/theme.css",
               "src/assets/lib/lightbox2/css/lightbox.css",
               "src/assets/lib/owl.carousel/owl.carousel.css",
